@@ -1,4 +1,7 @@
 # Professional Programming with C#
+# Certificate
+![Screenshot](Certificate.jpg)
+
 # Course Details
 
 ## Class 1 - Getting Started
